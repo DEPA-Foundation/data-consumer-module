@@ -17,4 +17,4 @@ A corporate sandbox simulating a DPM (at an abstracted level) can be found here 
 
 Another corporate sandbox detailing some APIs and process flows can be found here - https://www.onemoney.in/docs/api/ui_flows/
 
-An overview of the cryptography workflows for DEPA can bve found here - https://pdfhost.io/v/PIAeIEG0_NBFCAA__Security_Overview_1_1_1pdf.pdf
+An overview of the cryptography workflows for DEPA can be found here - https://pdfhost.io/v/PIAeIEG0_NBFCAA__Security_Overview_1_1_1pdf.pdf
